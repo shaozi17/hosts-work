@@ -1,0 +1,18 @@
+# --- SWITCHHOSTS_CONTENT_START ---
+
+192.168.2.215 coinotc.local www.coinotc.local
+
+192.168.2.215 nftotc.local admin.nftotc.local api.nftotc.local
+
+192.168.2.215 fans-tool-admin.local www.fans-tool-admin.local
+
+192.168.2.215 mixin.local chat.mixin.local
+
+192.168.2.215 mall.local www.mall.local api.mall.local admin.mall.local apiadmin.mall.local
+
+192.168.2.215 wish.local www.wish.local api.wish.local admin.wish.local apiadmin.wish.local
+
+192.168.2.215 crmweb.local www.crmweb.local
+
+192.168.2.209 pve.local
+192.168.2.88 win11.pve.local
