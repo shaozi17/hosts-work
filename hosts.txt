@@ -1,0 +1,28 @@
+##
+# Host Database
+#
+# localhost is used to configure the loopback interface
+# when the system is booting.  Do not change this entry.
+##
+127.0.0.1	localhost
+255.255.255.255	broadcasthost
+::1             localhost
+
+# --- SWITCHHOSTS_CONTENT_START ---
+
+127.0.0.1 coinotc.local www.coinotc.local
+
+127.0.0.1 nftotc.local admin.nftotc.local api.nftotc.local
+
+127.0.0.1 fans-tool-admin.local www.fans-tool-admin.local
+
+127.0.0.1 mixin.local chat.mixin.local
+
+127.0.0.1 mall.local www.mall.local api.mall.local admin.mall.local apiadmin.mall.local
+
+127.0.0.1 wish.local www.wish.local api.wish.local admin.wish.local apiadmin.wish.local
+
+127.0.0.1 crmweb.local www.crmweb.local
+
+192.168.2.209 pve.local
+192.168.2.88 win11.pve.local
