@@ -1,0 +1,3 @@
+# --- SWITCHHOSTS_CONTENT_START ---
+
+127.0.0.1 fans-tool-admin.local www.fans-tool-admin.local api.fans-tool-admin.local admin.fans-tool-admin.local apiadmin.fans-tool-admin.local
