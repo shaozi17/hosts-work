@@ -16,5 +16,10 @@
 
 192.168.2.80 usdt-otc.local www.usdt-otc.local
 
+#pve
 192.168.2.101 pve.local
+
 192.168.2.88 win11.pve.local
+192.168.2.126 docker.pve.local
+192.168.2.204 wyt-win11.pve.local
+192.168.2.160 wyt-ubuntu.pve.local
