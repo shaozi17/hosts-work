@@ -16,5 +16,5 @@
 
 192.168.2.80 usdt-otc.local www.usdt-otc.local
 
-192.168.2.209 pve.local
+192.168.2.101 pve.local
 192.168.2.88 win11.pve.local
