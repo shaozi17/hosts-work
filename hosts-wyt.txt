@@ -1,9 +1,3 @@
 # --- SWITCHHOSTS_CONTENT_START ---
 
-192.168.2.160 fans-tool-admin.local www.fans-tool-admin.local api.fans-tool-admin.local admin.fans-tool-admin.local apiadmin.fans-tool-admin.local
-
-
-192.168.2.160 nft.local www.nft.local api.nft.local admin.nft.local apiadmin.nft.local
-192.168.2.160 nftotc.local www.nftotc.local api.nftotc.local admin.nftotc.local apiadmin.nftotc.local
-
-192.168.2.160 wyt-ubuntu.pve.local
+192.168.2.201 fans-tool-admin.local www.fans-tool-admin.local api.fans-tool-admin.local admin.fans-tool-admin.local apiadmin.fans-tool-admin.local
