@@ -1,0 +1,7 @@
+#pve
+192.168.8.100 pve.local
+
+192.168.8.132 win11.pve.local
+192.168.8.131 docker.pve.local
+192.168.8.133 wyt-win11.pve.local
+192.168.8.130 wyt-ubuntu.pve.local
