@@ -15,3 +15,5 @@
 192.168.2.80 crmweb.local www.crmweb.local
 
 192.168.2.80 usdt-otc.local www.usdt-otc.local
+
+192.168.2.80 house.shao.local
