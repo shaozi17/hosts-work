@@ -17,3 +17,5 @@
 192.168.2.80 usdt-otc.local www.usdt-otc.local
 
 192.168.2.80 house.shao.local
+
+192.168.2.80 bank-mock.shao.local
