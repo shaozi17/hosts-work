@@ -10,3 +10,5 @@
 192.168.2.80 shao.local
 192.168.8.101 shao.local
 192.168.2.195 csy.local
+192.168.2.201 wyt.local
+192.168.2.91 lemon.local
