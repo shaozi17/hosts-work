@@ -8,3 +8,5 @@
 
 192.168.2.201 house-admin.local www.house-admin.local 
 192.168.2.201 houseadmin.local www.houseadmin.local 
+
+192.168.2.201 bank.local www.bank.local bank-mock.shao.local www.bank-mock.shao.local
