@@ -19,3 +19,5 @@
 192.168.2.80 house.shao.local
 
 192.168.2.80 bank-mock.shao.local
+
+192.168.2.80 brush.shao.local
