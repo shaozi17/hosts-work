@@ -1,4 +1,5 @@
 # --- SWITCHHOSTS_CONTENT_START ---
+
 192.168.2.201 fans-tool-admin.local www.fans-tool-admin.local 
 192.168.2.201 fanstooladmin.local www.fanstooladmin.local 
 
@@ -9,4 +10,14 @@
 192.168.2.201 house-admin.local www.house-admin.local 
 192.168.2.201 houseadmin.local www.houseadmin.local 
 
+192.168.2.201 tiktok-jp.local www.tiktok-jp.local api.tiktok-jp.local
+
 192.168.2.201 bank.local www.bank.local bank-mock.shao.local www.bank-mock.shao.local
+
+192.168.2.201 crmchat.local www.crmchat.local
+
+192.168.2.201 brush.local www.brush.local brush.shao.local www.brush.shao.local
+
+192.168.2.201 la-redoute.local www.la-redoute.local api.la-redoute.local admin.la-redoute.local apiadmin.la-redoute.local
+
+192.168.2.201 wish.local www.wish.local api.wish.local admin.wish.local apiadmin.wish.local
