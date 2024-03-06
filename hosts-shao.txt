@@ -10,6 +10,8 @@
 
 192.168.2.80 mall.local www.mall.local api.mall.local admin.mall.local apiadmin.mall.local
 
+192.168.2.80 shop.local www.shop.local api.shop.local admin.shop.local apiadmin.shop.local
+
 192.168.2.80 wish.local www.wish.local api.wish.local admin.wish.local apiadmin.wish.local
 
 192.168.2.80 crmweb.local www.crmweb.local
