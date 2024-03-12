@@ -24,4 +24,4 @@
 
 192.168.2.80 brush.shao.local
 
-192.168.2.80 box.shao.local admin.box.shao.local
+192.168.2.80 box.shao.local admin-box.shao.local
