@@ -21,3 +21,5 @@
 192.168.2.201 la-redoute.local www.la-redoute.local api.la-redoute.local admin.la-redoute.local apiadmin.la-redoute.local
 
 192.168.2.201 wish.local www.wish.local api.wish.local admin.wish.local apiadmin.wish.local
+
+192.168.2.201 tiktok.local www.tiktok.local api.tiktok.local admin.tiktok.local
