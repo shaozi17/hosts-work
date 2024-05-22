@@ -7,10 +7,18 @@
 192.168.2.201 nft.local www.nft.local api.nft.local admin.nft.local apiadmin.nft.local
 192.168.2.201 nftotc.local www.nftotc.local api.nftotc.local admin.nftotc.local apiadmin.nftotc.local
 
+192.168.2.201 metaverse-ph.local www.metaverse-ph.local api.metaverse-ph.local admin.metaverse-ph.local apiadmin.metaverse-ph.local
+
 192.168.2.201 house-admin.local www.house-admin.local 
 192.168.2.201 houseadmin.local www.houseadmin.local 
 
-192.168.2.201 tiktok-jp.local www.tiktok-jp.local api.tiktok-jp.local
+#pve
+192.168.8.100 pve.local
+
+192.168.2.201 tiktok-jp.local pc.tiktok-jp.local www.tiktok-jp.local api.tiktok-jp.local api.shop.local admin.tiktok-jp.local apiadmin.tiktok-jp.local
+
+192.168.2.201 gmarket-mall.local www.gmarket-mall.local api.gmarket-mall.local admin.gmarket-mall.local apiadmin.gmarket-mall.local
+
 
 192.168.2.201 bank.local www.bank.local bank-mock.shao.local www.bank-mock.shao.local
 
@@ -22,4 +30,11 @@
 
 192.168.2.201 wish.local www.wish.local api.wish.local admin.wish.local apiadmin.wish.local
 
+192.168.2.201 fnacdarty-open.local www.fnacdarty-open.local api.fnacdarty-open.local admin.fnacdarty-open.local apiadmin.fnacdarty-open.local
+
+192.168.2.201 emagbuy.local www.emagbuy.local api.emagbuy.local admin.emagbuy.local apiadmin.emagbuy.local
+
 192.168.2.201 tiktok.local www.tiktok.local api.tiktok.local admin.tiktok.local
+
+
+192.168.2.201 usdt.local www.usdt.local api.usdt.local
