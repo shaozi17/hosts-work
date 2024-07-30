@@ -12,5 +12,6 @@
 192.168.8.101 shao.local
 192.168.2.195 csy.local
 192.168.2.209 win.csy.local
+192.168.8.138 win-m.csy.local
 192.168.2.201 wyt.local
 192.168.2.91 lemon.local
