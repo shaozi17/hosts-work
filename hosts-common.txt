@@ -6,12 +6,16 @@
 192.168.8.133 wyt-win11.pve.local
 192.168.8.130 wyt-ubuntu.pve.local
 192.168.2.190 craxs-win11.pve.local
+192.168.8.153 craxs-win2022.pve.local
 
-#network
+#360
 192.168.2.80 shao.local
-192.168.8.101 shao.local
+192.168.2.190 mifi.local
 192.168.2.195 csy.local
 192.168.2.209 win.csy.local
-192.168.8.138 win-m.csy.local
 192.168.2.201 wyt.local
 192.168.2.91 lemon.local
+
+#mifi
+192.168.8.101 shao.local
+192.168.8.138 win-m.csy.local
