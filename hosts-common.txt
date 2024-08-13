@@ -5,7 +5,6 @@
 192.168.8.131 docker.pve.local
 192.168.8.133 wyt-win11.pve.local
 192.168.8.130 wyt-ubuntu.pve.local
-192.168.2.190 craxs-win11.pve.local
 192.168.8.153 craxs-win2022.pve.local
 
 #360
