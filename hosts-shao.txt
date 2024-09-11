@@ -31,3 +31,5 @@
 192.168.2.80 meta.shao.local
 
 192.168.2.80 firefly.shao.local
+
+192.168.2.80 soccer.shao.local
