@@ -1,5 +1,7 @@
 # --- SWITCHHOSTS_CONTENT_START ---
 
+192.168.2.80 dblook.shao.local 1panel.shao.local
+
 192.168.2.80 coinotc.local www.coinotc.local
 
 192.168.2.80 nftotc.local admin.nftotc.local api.nftotc.local
