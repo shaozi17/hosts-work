@@ -1,26 +1,23 @@
-# --- SWITCHHOSTS_CONTENT_START ---
-
 192.168.2.201 fans-tool-admin.local www.fans-tool-admin.local 
 192.168.2.201 fanstooladmin.local www.fanstooladmin.local 
 
 
-192.168.2.201 nft.local www.nft.local api.nft.local admin.nft.local apiadmin.nft.local
+192.168.2.201 nft.local www.nft.local api.nft.local admin.nft.local console.nft.loacl apiadmin.nft.local
 192.168.2.201 nftotc.local www.nftotc.local api.nftotc.local admin.nftotc.local apiadmin.nftotc.local
 
-192.168.2.201 metaverse-ph.local www.metaverse-ph.local api.metaverse-ph.local admin.metaverse-ph.local apiadmin.metaverse-ph.local
+192.168.2.201 metaverse-ph.local www.metaverse-ph.local api.metaverse-ph.local console.metaverse-ph.local admin.metaverse-ph.local apiadmin.metaverse-ph.local
 
 192.168.2.201 house-admin.local www.house-admin.local 
 192.168.2.201 houseadmin.local www.houseadmin.local 
 
-#pve
-192.168.8.100 pve.local
+
+47.91.16.111 metaverse-bot.com www.metaverse-bot.com api.metaverse-bot.com admin.metaverse-bot.com apiadmin.metaverse-bot.com
+47.91.16.111 metaverse-ph.com www.metaverse-ph.com api.metaverse-ph.com admin.metaverse-ph.com apiadmin.metaverse-ph.com
 
 192.168.2.201 tiktok-jp.local pc.tiktok-jp.local www.tiktok-jp.local api.tiktok-jp.local api.shop.local admin.tiktok-jp.local apiadmin.tiktok-jp.local
 
 192.168.2.201 gmarket-mall.local www.gmarket-mall.local api.gmarket-mall.local admin.gmarket-mall.local apiadmin.gmarket-mall.local
 
-
-192.168.2.201 bank.local www.bank.local bank-mock.shao.local www.bank-mock.shao.local
 
 192.168.2.201 crmchat.local www.crmchat.local
 
@@ -32,9 +29,13 @@
 
 192.168.2.201 fnacdarty-open.local www.fnacdarty-open.local api.fnacdarty-open.local admin.fnacdarty-open.local apiadmin.fnacdarty-open.local
 
-192.168.2.201 emagbuy.local www.emagbuy.local api.emagbuy.local admin.emagbuy.local apiadmin.emagbuy.local
+192.168.2.201 emagbuy.local pc.emagbuy.local www.emagbuy.local api.emagbuy.local admin.emagbuy.local apiadmin.emagbuy.local
 
 192.168.2.201 tiktok.local www.tiktok.local api.tiktok.local admin.tiktok.local
 
 
 192.168.2.201 usdt.local www.usdt.local api.usdt.local
+
+192.168.2.201 test.local
+
+192.168.2.201 usdtdealer.local www.usdtdealer.local api.usdtdealer.local
