@@ -22,16 +22,16 @@
 
 192.168.2.80 house.shao.local
 
-192.168.2.80 bank-mock.shao.local
+192.168.2.80 bank-mock.shao.local bank-mock.shao.private
 
-192.168.2.80 brush.shao.local
+192.168.2.80 brush.shao.local brush.shao.private
 
 192.168.2.80 box.shao.local admin-box.shao.local
 
-192.168.2.80 maccms.shao.local
+192.168.2.80 maccms.shao.local maccms.shao.private
 
-192.168.2.80 meta.shao.local
+192.168.2.80 meta.shao.local meta.shao.private
 
-192.168.2.80 firefly.shao.local
+192.168.2.80 firefly.shao.local firefly.shao.private
 
-192.168.2.80 soccer.shao.local
+192.168.2.80 soccer.shao.local soccer.shao.private
