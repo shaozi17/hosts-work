@@ -39,3 +39,5 @@
 192.168.2.201 test.local
 
 192.168.2.201 usdtdealer.local www.usdtdealer.local api.usdtdealer.local
+
+192.168.2.201 soccergame.local www.soccergame.local soccer.shao.local
