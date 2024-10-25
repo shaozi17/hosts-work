@@ -37,6 +37,7 @@
 192.168.2.201 mercadolibre.local pc.mercadolibre.local www.mercadolibre.local api.mercadolibre.local admin.mercadolibre.local apiadmin.mercadolibre.local
 
 192.168.2.201 usdt.local www.usdt.local api.usdt.local
+192.168.2.201 usdt.test www.usdt.test api.usdt.test
 
 192.168.2.201 test.local
 
