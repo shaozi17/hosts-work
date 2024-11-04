@@ -1,6 +1,5 @@
 #pve
 192.168.8.100 pve.private
-192.168.8.100 pve.private
 
 192.168.8.132 win11.pve.private
 192.168.8.131 docker.pve.private
