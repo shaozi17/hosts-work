@@ -1,0 +1,39 @@
+192.168.2.80 dblook.shao.private 1panel.shao.private minio.shao.private
+
+192.168.2.80 coinotc.local www.coinotc.local
+
+192.168.2.80 nftotc.local admin.nftotc.local api.nftotc.local
+
+192.168.2.80 fans-tool-admin.local www.fans-tool-admin.local
+
+192.168.2.80 mixin.local chat.mixin.local
+
+192.168.2.80 mall.local www.mall.local api.mall.local admin.mall.local apiadmin.mall.local
+
+192.168.2.80 shop.local www.shop.local api.shop.local admin.shop.local apiadmin.shop.local pc.shop.local
+
+192.168.2.80 wish.local www.wish.local api.wish.local admin.wish.local apiadmin.wish.local
+
+192.168.2.80 crmweb.local www.crmweb.local
+
+192.168.2.80 usdt-otc.local www.usdt-otc.local usdt-otc.private
+
+192.168.2.80 house.shao.local
+
+192.168.2.80 bank-mock.shao.local bank-mock.shao.private
+
+192.168.2.80 brush.shao.local brush.shao.private
+
+192.168.2.80 box.shao.local admin-box.shao.local box.shao.private admin-box.shao.private
+
+192.168.2.80 maccms.shao.local maccms.shao.private
+
+192.168.2.80 meta.shao.local meta.shao.private
+
+192.168.2.80 firefly.shao.local firefly.shao.private
+
+192.168.2.80 soccer.shao.local soccer.shao.private
+
+192.168.2.80 shop.private api.shop.private admin.shop.private apiadmin.shop.private pc.shop.private
+
+192.168.2.80 wish.private api.wish.private admin.wish.private apiadmin.wish.private pc.wish.private

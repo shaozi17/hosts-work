@@ -1,7 +1,0 @@
-192.168.2.80 dblook.shao.private 1panel.shao.private minio.shao.private
-
-192.168.2.80 coinotc.local www.coinotc.local
-
-192.168.2.80 nftotc.local admin.nftotc.local api.nftotc.local
-
-192.168.2.80 fans-tool-admin.local www.fans-tool-admin.local
