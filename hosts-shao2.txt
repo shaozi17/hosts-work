@@ -33,7 +33,3 @@
 192.168.2.80 firefly.shao.local firefly.shao.private
 
 192.168.2.80 soccer.shao.local soccer.shao.private
-
-192.168.2.80 shop.private api.shop.private admin.shop.private apiadmin.shop.private pc.shop.private
-
-192.168.2.80 wish.private api.wish.private admin.wish.private apiadmin.wish.private pc.wish.private
