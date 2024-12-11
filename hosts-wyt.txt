@@ -18,6 +18,8 @@
 
 192.168.2.201 gmarket-mall.local www.gmarket-mall.local api.gmarket-mall.local admin.gmarket-mall.local apiadmin.gmarket-mall.local
 
+192.168.2.201 bank.local www.bank.local
+192.168.2.201 bank.test www.bank.test
 
 192.168.2.201 crmchat.local www.crmchat.local
 
